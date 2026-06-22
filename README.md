@@ -8,7 +8,7 @@ By creating a secure, invisible Bluetooth link between your phone and a partner�
 **Tetherd** was conceived from real-life situations where phones were left behind and almost lost. Don't let it happen to you.
 
 ## Key features
-**Preventative Alerts**: Instant, high-visibility alarms sound on both paired devices if connection drops.
+**Preventative Alerts**: Instant alarms sound on both paired devices if connection drops.
 
 **Zero Internet Required**: Works entirely via localized Bluetooth. Perfect for crowded music festivals, remote hikes, international travel, or daily commutes without using data.
 
@@ -32,7 +32,7 @@ The app has a main screen and a few option screens.
 
 The **main screen** shows information about your buddy, and the state of your connection. There are buttons:
 
-**Apart** – if you’re going to be temporarily apart from your buddy, you can suppress the alert alarm by tapping this. The initial ‘Apart’ time can be chosen in the settings, the default is 5 minutes, andy you can adjust this while active by using the "+" and "-" buttons. When you set or adjust 'Apart' the same duration is set on your buddy, keeping you in sync. If you're not in contact with your buddy when the apart time expires, an alert sounds. 'Apart' can be set even when you're out of contact, so you can be alerted if your partner (more accurately, their phone) has not reconnected when expected.&#8224
+**Apart** – if you’re going to be temporarily apart from your buddy, you can suppress the alert alarm by tapping this. The initial ‘Apart’ time can be chosen in the settings, the default is 5 minutes, andy you can adjust this while active by using the "+" and "-" buttons. When you set or adjust 'Apart' the same duration is set on your buddy, keeping you in sync. If you're not in contact with your buddy when the apart time expires, an alert sounds. 'Apart' can be set even when you're out of contact, so you can be alerted if your partner (more accurately, their phone) has not reconnected when expected.**
 
 **Cancel apart** – Tap this if you’re back together earlier and want to return to normal alert mode.
 
@@ -42,11 +42,11 @@ The **main screen** shows information about your buddy, and the state of your co
 
 **Show Proximity**\* - shows the approximate distance to your buddy's phone. This uses the strength of its Bluetooth signal to gauge the distance. (This is easily affected by anything in between e.g. walls, people, and can only be an estimate.) The proximity "radar" can be particularly useful for locating your buddy's phone as it is independent of the Tetherd connection, and just requires the phone to be powered on, with Bluetooth enabled.
 
-&#8224***Apart when disconnected*** - if you set or adjust 'Apart' when connected to your buddy, the alert duration is synchronized. If you do this when disconnectedt, your buddy will not be aware of any changes you make and will continue with its original settings. When you reconnect, 'Apart' is cancelled on both phones.
+*****Apart when disconnected*** - if you set or adjust 'Apart' when connected to your buddy, the alert duration is synchronized. If you do this when disconnectedt, your buddy will not be aware of any changes you make and will continue with its original settings. When you reconnect, 'Apart' is cancelled on both phones.
 
 There a **message** facility on the lower part of the main screen. Messages to and from your buddy will appear here.
 
-You use the **Configure screen** to select your partner device. This will initially show currently paired devices. If the device you want isn’t shown, Tap "Scan" to discover other available devices that can then be paired with. (*Hint*: put the partner phone into pairing mode to make it visible to the scan.)
+You use the **Configure screen** to select your partner device. This will initially show currently paired devices. If the device you want isn’t shown, tap "Scan" to discover other available devices that can then be paired with. (*Hint*: put the partner phone into pairing mode to make it visible to the scan.)
 
 The **Settings screen** lets you set app preferences, for example the length and the number of repeats of the alert alarm and the choice of screen locking\*.
 If you set your **name**, it will appear on your buddy's screen.
