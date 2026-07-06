@@ -60,4 +60,4 @@ In order to **lock the device**\*, the app needs special Device Administrator pe
 ### Terms and Conditions
 When you start up the app for the first time, you will be required to agree to the Terms and Conditions. These are an unfortunate necessity in today's litigious climate!
 
-\* not available in Lite version
+\* premium in-app purchase
