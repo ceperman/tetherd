@@ -16,7 +16,7 @@ By creating a secure, invisible Bluetooth link between your phone and a partner�
 
 **Smart Lock Security***: If an alert isn’t muted within your chosen time limit, your phone automatically locks to protect your private data.
 
-**On-Demand Proximity Radar***: Lost your buddy in a crowd? Fire up the low-energy proximity screen to actively track if their phone is getting closer or further away, without draining your battery in the background.
+**On-Demand Proximity Radar***: Lost your buddy in a crowd? In a supermarket? Fire up the low-energy proximity screen to actively track if their phone is getting closer or further away, without draining your battery in the background.
 
 ### How it works
 
@@ -42,9 +42,9 @@ The **main screen** shows information about your buddy, and the state of your co
 
 **Show Proximity**\* - shows the approximate distance to your buddy's phone. This uses the strength of its Bluetooth signal to gauge the distance. (This is easily affected by anything in between e.g. walls, people, and can only be an estimate.) The proximity "radar" can be particularly useful for locating your buddy's phone as it is independent of the Tetherd connection, and just requires the phone to be powered on, with Bluetooth enabled.
 
-*****Apart when disconnected*** - if you set or adjust 'Apart' when connected to your buddy, the alert duration is synchronized. If you do this when disconnectedt, your buddy will not be aware of any changes you make and will continue with its original settings. When you reconnect, 'Apart' is cancelled on both phones.
+** ***Apart when disconnected*** - if you set or adjust 'Apart' when connected to your buddy, the alert duration is synchronized. If you do this when disconnectedt, your buddy will not be aware of any changes you make and will continue with its original settings. When you reconnect, 'Apart' is cancelled on both phones.
 
-There a **message** facility on the lower part of the main screen. Messages to and from your buddy will appear here.
+There is a **message** facility on the lower part of the main screen. Messages to and from your buddy will appear here.
 
 You use the **Configure screen** to select your partner device. This will initially show currently paired devices. If the device you want isn’t shown, tap "Scan" to discover other available devices that can then be paired with. (*Hint*: put the partner phone into pairing mode to make it visible to the scan.)
 
@@ -53,11 +53,11 @@ If you set your **name**, it will appear on your buddy's screen.
 
 ### Android permissions
 
-Offline Buddy needs certain Android permissions to operate. These will be requested the first time Buddy starts. See the **privacy policy** for details for what permissions are needed, and why.
+**Tetherd** needs certain Android permissions to operate. These will be requested the first time Buddy starts. See the **privacy policy** for details for what permissions are needed, and why.
 
-In order to **lock the device**\*, the app needs special Device Administrator permission, which will be requested only if the lock option is enabled. It is a feature of Android that an app with Devices Administrator permission enabled cannot be uninstalled. If you want to remove Offline Buddy from your phone and the lock option has been enabled, you must disable it first. Alternatively you can use Android Apps settings and turn off the permission there.
+In order to **lock the device**\*, the app needs special Device Administrator permission, which will be requested only if the lock option is enabled. It is a feature of Android that an app with Devices Administrator permission enabled cannot be uninstalled. If you want to remove the app from your phone and the lock option has been enabled, you must disable it first. Alternatively you can use Android Apps settings and turn off the permission there.
 
 ### Terms and Conditions
-When you start up the app for the first time, you will be required to agree to the Terms and Conditions. These are an unfortunate necessity in today's litigious climate!
+When you start up the app for the first time, you will be required to agree to the Terms and Conditions. These are an unfortunate necessity in today's litigious climate.
 
 \* premium in-app purchase
