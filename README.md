@@ -53,7 +53,7 @@ If you set your **name**, it will appear on your buddy's screen.
 
 ### Android permissions
 
-**Tetherd** needs certain Android permissions to operate. These will be requested the first time Buddy starts. See the **privacy policy** for details for what permissions are needed, and why.
+**Tetherd** needs certain Android permissions to operate. These will be requested the first time the app runs. See the **privacy policy** for details for what permissions are needed, and why.
 
 In order to **lock the device**\*, the app needs special Device Administrator permission, which will be requested only if the lock option is enabled. It is a feature of Android that an app with Devices Administrator permission enabled cannot be uninstalled. If you want to remove the app from your phone and the lock option has been enabled, you must disable it first. Alternatively you can use Android Apps settings and turn off the permission there.
 
